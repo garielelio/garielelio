@@ -1,5 +1,5 @@
 ### Hi there, I'm Gariel 👋
-I am a second year computer science student at the University of Guelph with a passion for coding and software development. As an aspiring software engineer, I have a strong foundation in programming languages such as C, Java, Python, HTML/CSS, SQL, and JavaScript. I am currently learning full-stack development and I am excited about the potential it offers for me to grow. I hope to explore the fields of AI and machine learning, as I believe these technologies have the potential to create positive change in the world. I am eager to gain practical experience through internships and contribute to innovative projects that make an impact. 
+Welcome to my GitHub account! I am delighted that you are here. This is where i showcase my software development projects. As an aspiring software engineer, I am committed to creating various projects to hone my skill. Please feel free to explore my respiratories and get a glimpse of the projects that I have or currently working on. Feel free to reach out to me if you have any questions. Thanks for stopping by!
 
 ## Skills and Languages 🎓
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
