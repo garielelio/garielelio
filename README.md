@@ -1,5 +1,5 @@
 ### Hi there, I'm Gariel 👋
-Welcome to my GitHub account! I am delighted that you are here. This is where I showcase my software development projects. As an aspiring software engineer, I am committed to creating various projects to hone my skill. Please feel free to explore my repository and get a glimpse of the projects that I have been or currently working on. Feel free to reach out to me if you have any questions. Thanks for stopping by!
+Welcome to my GitHub account! I am delighted that you are here. This is where I showcase my software development projects. As an aspiring software engineer, I am committed to creating various projects to hone my skill. Please feel free to explore my repositories and get a glimpse of the projects that I have been or currently working on. Feel free to reach out to me if you have any questions. Thanks for stopping by!
 
 ## Skills and Languages 🎓
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
