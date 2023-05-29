@@ -19,5 +19,8 @@ Welcome to my GitHub account! I am delighted that you are here. This is where I 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-##
+
+## Activity 📈
+![Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=garielelio&theme=github_dark)
+
 
